@@ -1,0 +1,36 @@
+<resources>
+    <!-- Title for the application -->
+    <string name="app_name">Crypto Rates</string>
+
+    <!-- Bitcoin rates card for the currencies -->
+    <string name="bitcoin_rates_card">Bitcoin Rates</string>
+
+    <!-- Etherum rates card for the currencies -->
+    <string name="etherum_rates_card">Etherum Rates</string>
+
+    <!-- Convert button text -->
+    <string name="convert_button">Convert</string>
+
+    <string-array name="value">
+        <item >EUR</item>
+        <item >GBP</item>
+        <item >RUB</item>
+        <item >AUD</item>
+        <item >AED</item>
+        <item >NGN</item>
+        <item >CAD</item>
+        <item >SGD</item>
+        <item >HKD</item>
+        <item >PLN</item>
+        <item >ZAR</item>
+        <item >PHP</item>
+        <item >RUR</item>
+        <item >HUF</item>
+        <item >BRL</item>
+        <item >MXN</item>
+        <item >RON</item>
+        <item >BGN</item>
+        <item >TRY</item>
+        <item >BHD</item>
+    </string-array>
+</resources>
